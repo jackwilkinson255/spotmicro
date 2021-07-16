@@ -32,5 +32,5 @@ Key features:
 
 ## ROS Integrated
 <p align="center">
-  <img src="images/rosgraph.png" alt="animated" />
+  <img src="images/rosgraph.png" width="400" alt="animated" />
 </p>
