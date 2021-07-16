@@ -1,7 +1,7 @@
 # Spot Micro Dynamixel Quadruped Robot
 
 <p align="center">
-  <img src="images/walking.gif" alt="animated" />
+  <img src="images/walking.gif" width="480" alt="animated" />
 </p>
 
 Key features:
