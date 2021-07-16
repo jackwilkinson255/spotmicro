@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img src="side_recovery.gif" alt="animated" />
+  <img src="images/side_recovery.gif" alt="animated" />
 </p>
 
 <p align="center">
-  <img src="fall_recovery.gif" alt="animated" />
+  <img src="images/fall_recovery.gif" alt="animated" />
 </p>
